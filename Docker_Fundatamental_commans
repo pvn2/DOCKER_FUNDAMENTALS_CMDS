@@ -1,0 +1,4 @@
+Step-1: Verify Docker version and also login to Docker Hub
+
+docker version
+docker login
