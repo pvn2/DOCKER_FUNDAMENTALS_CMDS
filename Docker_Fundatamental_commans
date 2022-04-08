@@ -2,3 +2,9 @@ Step-1: Verify Docker version and also login to Docker Hub
 
 docker version
 docker login
+
+
+Step-2: Pull Image from Docker Hub
+
+docker pull 
+docker run
